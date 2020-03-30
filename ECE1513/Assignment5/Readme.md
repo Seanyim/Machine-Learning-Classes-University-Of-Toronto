@@ -17,8 +17,9 @@ of the class 7 from the test set. You are expected to hand in (1) the code used 
 perturbation, (2) a visualization of the perturbed image, and (3) the prediction vector output
 by the model on the original and perturbed image
 
-*Solution:* \
- The module has been achieved in the python file, in which I commented for part 1
+*Solution:*
+
+The module has been achieved in the python file, in which I commented for part 1
 
 **Part 2:** Now repeat the process for 1, 000 images from the test set. Plot the average accuracy
 of the model on the 1, 000 adversarial examples x
@@ -27,7 +28,8 @@ should produce a graph with the model’s accuracy on the vertical axis and ε o
 axis. Also hand in the python code used to generate this graph (you should use the matplotlib
 library to generate the plot).
 
-*Solution:* \
+*Solution:* 
+
 The module has been achieved in the python file, in which I commented for part 2
 
 **Part 3:** We will now refine the way the perturbation is found by adding several smaller
@@ -46,11 +48,13 @@ k
 hand in (1) the code used to find the perturbation, (2) a visualization of the perturbed image,
 and (3) the prediction vector output by the model on the original and perturbed image.
 
-*Solution:*\
+*Solution:*
+
 The module has been achieved in the python file, in which I commented for Part 3 
 
 **Part 4:** For k = 5, plot the same graph than in the second question
 
-*Solution:*\
+*Solution:*
+
 The module has been achieved in the python file, in which I commented for part 4.
   
