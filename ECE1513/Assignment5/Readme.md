@@ -30,5 +30,27 @@ library to generate the plot).
 *Solution:* \
 The module has been achieved in the python file, in which I commented for part 2
 
-**Part 3:** 
+**Part 3:** We will now refine the way the perturbation is found by adding several smaller
+perturbations to the image rather than modifying the image in one large perturbation. Modify
+the code you wrote in the first question to instead iteratively perturb the input as follows. For
+k iterations, take the input x, compute x
+∗ = x + ε · sign(
+∂L
+∂x ), replace x by x
+∗ and repeat.
+Take the same test image than in the first question and show that you can find a misclassified
+perturbed image for k = 5 and a smaller value of the hyperparameter ≈
+ε
+k
+. You are expected to
+hand in (1) the code used to find the perturbation, (2) a visualization of the perturbed image,
+and (3) the prediction vector output by the model on the original and perturbed image.
+
+*Solution:*\
+The module has been achieved in the python file, in which I commented for Part 3 
+
+**Part 4:** For k = 5, plot the same graph than in the second question
+
+*Solution:*\
+The module has been achieved in the python file, in which I commented for part 4.
   
