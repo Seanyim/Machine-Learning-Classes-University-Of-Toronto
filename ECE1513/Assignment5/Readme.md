@@ -18,7 +18,17 @@ perturbation, (2) a visualization of the perturbed image, and (3) the prediction
 by the model on the original and perturbed image
 
 *Solution:* \
-  the module has been achieved in the python file, in which I commented for part 1
+ The module has been achieved in the python file, in which I commented for part 1
 
-**Part 2:** 
+**Part 2:** Now repeat the process for 1, 000 images from the test set. Plot the average accuracy
+of the model on the 1, 000 adversarial examples x
+∗ you produce as a function of ε. That is, you
+should produce a graph with the model’s accuracy on the vertical axis and ε on the horizontal
+axis. Also hand in the python code used to generate this graph (you should use the matplotlib
+library to generate the plot).
+
+*Solution:* \
+The module has been achieved in the python file, in which I commented for part 2
+
+**Part 3:** 
   
