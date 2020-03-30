@@ -17,4 +17,7 @@ of the class 7 from the test set. You are expected to hand in (1) the code used 
 perturbation, (2) a visualization of the perturbed image, and (3) the prediction vector output
 by the model on the original and perturbed image
 
+*Solution:* the module has been achieved in the python file, in which I commented for part 1
+
+**Part 2:** 
   
